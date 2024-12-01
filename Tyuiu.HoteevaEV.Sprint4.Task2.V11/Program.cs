@@ -33,7 +33,7 @@ namespace Tyuiu.HoteevaEV.Sprint4.Task2.V11
 
             for (int i = 0; i < len; i++)
             {
-                mass[i] = rnd.Next(3, 8); ;
+                mass[i] = rnd.Next(3, 8);
             }
 
             Console.WriteLine();
